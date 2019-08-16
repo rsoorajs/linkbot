@@ -1,0 +1,7 @@
+requests
+git+git://github.com/google/chatbase-python.git
+git+git://github.com/pyrogram/pyrogram.git@asyncio-dev
+tgcrypto
+Pillow
+hachoir
+numpy
